@@ -1,0 +1,6 @@
+edu/sabana/poob/sabanapayroll/CheckingTest.java
+ edu.sabana.poob.sabanapayroll.CheckingTest
+edu/sabana/poob/sabanapayroll/SavingTest.java
+ edu.sabana.poob.sabanapayroll.SavingTest
+edu/sabana/poob/sabanapayroll/SabanaPayrollTest.java
+ edu.sabana.poob.sabanapayroll.SabanaPayrollTest

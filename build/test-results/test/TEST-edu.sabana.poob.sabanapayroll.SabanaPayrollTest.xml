@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.sabana.poob.sabanapayroll.SabanaPayrollTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-15T18:34:44" hostname="DESKTOP-4B9M86S" time="0.029">
+  <properties/>
+  <testcase name="shouldCalculateAllEmployeesBalance()" classname="edu.sabana.poob.sabanapayroll.SabanaPayrollTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
